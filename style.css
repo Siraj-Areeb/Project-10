@@ -12,6 +12,7 @@ body{
 nav{
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
 }
 
 .nav-menu{
@@ -19,7 +20,7 @@ nav{
     flex-direction: row;
     list-style-type: none;
     position: relative;
-    left: 280px;
+    /* left: 280px; */
     align-items: center;
     font-weight: 500;
 }
@@ -33,7 +34,7 @@ nav{
 nav>img{
     height: 25px;
     position: relative;
-    left: 1010px;
+    /* left: 1010px; */
     top: 48px;
 }
 .logo-heading{
@@ -75,14 +76,14 @@ hr{
 .top>img{
     height: 30px;
     position: relative;
-    left: 380px;
+    left: 600px;
     top: 50px;
 }
 
 .bottom>img{
     height: 30px;
     position: relative;
-    left: 326px;
+    left: 556px;
     top: 112px;
 }
 
@@ -134,7 +135,7 @@ hr{
     background-color: #fff;
     position: relative;
     top: 45px;
-    left: 275px;
+    left: 445px;
     z-index: -1;
 }
 
@@ -145,7 +146,7 @@ hr{
     background-color: #fff;
     position: relative;  
     top: 286px;
-    left: 296.5px;
+    left: 353px;
 }
 
 .x2{
@@ -165,7 +166,7 @@ hr{
     background-color: #fff;
     position: relative;
     top: 105px;
-    left: 175px;
+    left: 345px;
     z-index: -1;
 }
 
@@ -176,7 +177,7 @@ hr{
     background-color: #fff;
     position: relative;  
     top: 123px;
-    left: 310px;
+    left: 370px;
 }
 
 .y2{
