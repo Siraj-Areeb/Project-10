@@ -20,7 +20,7 @@ nav{
     flex-direction: row;
     list-style-type: none;
     position: relative;
-    /* left: 280px; */
+    left: 60px;
     align-items: center;
     font-weight: 500;
 }
@@ -32,11 +32,12 @@ nav{
 }
 
 nav>img{
-    height: 25px;
+    height: 20px;
     position: relative;
     /* left: 1010px; */
     top: 48px;
 }
+
 .logo-heading{
     font-size: 30px;
     position: relative;
@@ -44,9 +45,9 @@ nav>img{
 }
 
 hr{
-    width: 880px;
+    width: 900px;
     position: relative;
-    left: 220px;
+    left: 200px;
 }
 
 .section{
@@ -74,16 +75,16 @@ hr{
 }
 
 .top>img{
-    height: 30px;
+    height: 45px;
     position: relative;
-    left: 600px;
+    left: 335px;
     top: 50px;
 }
 
 .bottom>img{
-    height: 30px;
+    height: 45px;
     position: relative;
-    left: 556px;
+    left: 250px;
     top: 112px;
 }
 
@@ -128,17 +129,6 @@ hr{
     top: 70px;
 }
 
-.x{
-    height: 45px;
-    width: 80px;
-    border-radius: 25px;
-    background-color: #fff;
-    position: relative;
-    top: 45px;
-    left: 445px;
-    z-index: -1;
-}
-
 .x1{
     height: 15px;
     width: 15px;
@@ -146,7 +136,7 @@ hr{
     background-color: #fff;
     position: relative;  
     top: 286px;
-    left: 353px;
+    left: 309px;
 }
 
 .x2{
@@ -159,17 +149,6 @@ hr{
     left: 240px;
 }
 
-.y{
-    height: 45px;
-    width: 80px;
-    border-radius: 25px;
-    background-color: #fff;
-    position: relative;
-    top: 105px;
-    left: 345px;
-    z-index: -1;
-}
-
 .y1{
     height: 15px;
     width: 15px;
@@ -177,7 +156,7 @@ hr{
     background-color: #fff;
     position: relative;  
     top: 123px;
-    left: 370px;
+    left: 355px;
 }
 
 .y2{
@@ -187,5 +166,5 @@ hr{
     background-color: #fff; 
     position: relative;  
     top: 130px;
-    left: 102px;
+    left: 122px;
 }
